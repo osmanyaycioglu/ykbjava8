@@ -8,3 +8,9 @@
 /EReaderType.class
 /ICustomerReader.class
 /ManualCustomerReader.class
+/FileCustomerReader.class
+/IATMCommand.class
+/commands/
+/ECustomerType$1.class
+/ECustomerType$2.class
+/ECustomerType$3.class

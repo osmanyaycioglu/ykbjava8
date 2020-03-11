@@ -5,6 +5,8 @@ public class CustomerReaderFactory {
 		switch (e) {
 		case MANUAL:
 			return new ManualCustomerReader();
+		case FILE:
+			return new FileCustomerReader();
 
 		default:
 			return new ManualCustomerReader();
