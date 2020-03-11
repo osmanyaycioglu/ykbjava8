@@ -1,0 +1,2 @@
+osman,yay,osmany,12345,ALTIN,TL#1200;DOLAR#1300
+ali,veli,aliv,12345,ALTIN,TL#1500;DOLAR#1500
